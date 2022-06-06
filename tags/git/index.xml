@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Reboot my Life!</title>
+    <link>https://blog.fastreboot.de/tags/git/</link>
+    <description>Recent content in git on Reboot my Life!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Martin Stoffers</copyright>
+    <lastBuildDate>Tue, 17 Sep 2013 17:00:19 +0200</lastBuildDate><atom:link href="https://blog.fastreboot.de/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auf alle git remotes auf einmal pushen</title>
+      <link>https://blog.fastreboot.de/2013/09/auf-alle-git-remotes-auf-einmal-pushen/</link>
+      <pubDate>Tue, 17 Sep 2013 17:00:19 +0200</pubDate>
+      
+      <guid>https://blog.fastreboot.de/2013/09/auf-alle-git-remotes-auf-einmal-pushen/</guid>
+      <description>Beim lernen in der FH wurde uns heute das pushen auf mehrere git server, sprich verschiedene remotes, zu mühsam. Zwar tut ein git push origin master &amp;amp;&amp;amp; git push github master genau das, was man möchte, aber man kennt ja nicht immer alle remotes in jedem Repository. Also haben wir uns schnell mit einer kleinen Shellfunktion beholfen.
+Diese einfach in die .zshrc einfügen:
+function powerpush(){  for repo in $(cat .</description>
+    </item>
+    
+  </channel>
+</rss>

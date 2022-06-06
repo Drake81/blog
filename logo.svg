@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 677.7 131.84" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <style>
+        text:hover {
+            fill: #2a9fd6;;
+        }
+        tspan:hover {
+            fill: #fff;
+            text-decoration-line: none;
+        }
+
+    </style>
+
+    <g id="layer8" transform="translate(37.035477,30.344843)">
+        <g id="wire_left" stroke-linejoin="miter" stroke="#0F0" stroke-linecap="butt" stroke-width="2px" fill="none">
+            <path id="path3905" d="m76.772,516.48,0,49.497,175.26,0,0-24.244,24.244,0" transform="translate(-63.965435,-478.60569)"></path>
+            <path id="path3907" d="m252.03,565.97,24.244,0" transform="translate(-63.965435,-478.60569)"></path>
+        </g>
+    </g>
+    <g id="layer9" transform="translate(37.035477,30.344843)">
+        <g id="wire_right" stroke-linejoin="miter" stroke="#0F0" stroke-linecap="butt" stroke-width="2px" fill="none">
+            <path id="path3913" d="m374.77,541.73,179.54,0,0-25.254,20.264,0" transform="translate(-63.965435,-478.60569)"></path>
+            <path id="path3915" d="m374.77,565.97,199.8,0" transform="translate(-63.965435,-478.60569)"></path>
+        </g>
+    </g>
+
+
+    <a xlink:href="https://martinstoffers.de">
+        <g id="layer5" transform="translate(37.035477,30.344843)">
+            <g id="connector" stroke-linejoin="miter" stroke="#F00" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" fill="none">
+                <path id="path3968" d="m510.44,37.871h50.003" stroke-width="2"></path>
+                <path id="path3970" d="m510.44,87.368h50.003" stroke-width="2"></path>
+                <path id="path3974" d="m549.83,81.812v-36.806" stroke-width="2"></path>
+                <path id="path3980" d="m549.83,94.439v6.0609h23.991" stroke-width="2"></path>
+                <path id="path3982" d="m549.83,31.971v-6.222h23.991" stroke-width="2"></path>
+                <path id="path3984" d="m560.44,87.368h10.102" stroke-width="5"></path>
+                <path id="path3986" d="m560.44,37.871h10.102" stroke-width="5"></path>
+            </g>
+        </g>
+        <g id="layer13" transform="translate(37.035477,30.344843)">
+            <text id="life" style="writing-mode:lr-tb;letter-spacing:0px;text-anchor:start;word-spacing:0px;text-align:start;" font-weight="bold" xml:space="preserve" font-size="28px" font-style="normal" font-stretch="normal" font-variant="normal" y="73.562851" x="583.38031" font-family="Sans" line-height="100%" fill="#888888"><tspan id="tspan4623" x="583.38031" y="73.562851">Life</tspan></text>
+        </g>
+    </a>
+
+    <a xlink:href="posts/">
+        <g id="layer6" transform="translate(37.035477,30.344843)">
+            <g id="switch" stroke="#F00">
+                <path id="path3930" stroke-linejoin="miter" d="m212.31,63.124h24.749v24.244h-24.749" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="none"></path>
+                <path id="path3932" stroke-linejoin="miter" d="m237.06,63.124h6.0609" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="#F00"></path>
+                <path id="path3936" stroke-linejoin="miter" d="m286.56,63.124v24.244h24.244" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="none"></path>
+                <path id="path3938" stroke-linejoin="miter" d="m279.99,13.627v-12.627h-36.871v12.627" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="none"></path>
+                <path id="path3954" stroke-linejoin="miter" d="m261.81,1v18.649" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.5" fill="none"></path>
+                <path id="path3956" stroke-linejoin="miter" d="m261.81,25.749v6.222" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.5" fill="none"></path>
+                <path id="path3958" stroke-linejoin="miter" d="m261.81,37.871v7.1359" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.5" fill="none"></path>
+                <path id="path3960" stroke-linejoin="miter" d="m261.81,50.721v5.3572" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.5" fill="none"></path>
+                <path id="path3962" stroke-linejoin="miter" d="M286.56,63.124c-15-3.36-29.99-6.721-44.99-10.082" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="none"></path>
+                <path id="path4030" stroke-linejoin="miter" d="m286.56,63.124h24.244" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="none"></path>
+                <path id="path3991" d="m240.37,63.124c0.0127,6.4588-10.655,1.4112-5.3101-2.6783,2.0229-1.572,5.4893,0.04379,5.3101,2.6783z" fill="#F00"></path>
+                <path id="path3995" d="m289.98,63.124c0.0127,6.4588-10.655,1.4112-5.3101-2.6783,2.0229-1.572,5.4893,0.04379,5.3101,2.6783z" fill="#F00"></path>
+            </g>
+        </g>
+        <g id="layer12" transform="translate(37.035477,30.344843)">
+            <text id="reboot" style="writing-mode:lr-tb;letter-spacing:0px;text-anchor:start;word-spacing:0px;text-align:start;" font-weight="bold" xml:space="preserve" font-size="28px" font-style="normal" font-stretch="normal" font-variant="normal" y="-9.0714054" x="204.35309" font-family="Sans" line-height="100%" fill="#888888"><tspan id="tspan4619" x="204.35309" y="-9.0714054">Reboot</tspan></text>
+        </g>
+    </a>
+
+
+    <a xlink:href="https://martinstoffers.de">
+        <g id="layer7" transform="translate(37.035477,30.344843)">
+            <path id="arrow" stroke-linejoin="miter" d="m12.806,13.122,0,24.749m-11.806-5.837,11.68-18.344m0.31568,0,13.228,18.344" stroke="#F00" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="none"></path>
+        </g>
+        <g id="layer11" transform="translate(37.035477,30.344843)">
+            <text id="myself" style="writing-mode:lr-tb;letter-spacing:0px;text-anchor:start;word-spacing:0px;text-align:start;" font-weight="bold" xml:space="preserve" font-size="28px" font-style="normal" font-stretch="normal" font-variant="normal" y="4.2143078" x="-39.605789" font-family="Sans" line-height="100%" fill="#888888"><tspan id="tspan4615" x="-39.605789" y="4.2143078">Myself</tspan></text>
+        </g>
+    </a>
+
+</svg>

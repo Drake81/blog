@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/dr4k3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://fastreboot.de
+  * I am dr4k3 (https://keybase.io/dr4k3) on keybase.
+  * I have a public key with fingerprint 51DB A6D0 671F 6BE9 23D3  5822 6CBE DC57 24EE 3426
+
+To claim this, I am signing this object:
+
+{
+    body: {
+        key: {
+            fingerprint: 51dba6d0671f6be923d358226cbedc5724ee3426,
+            host: keybase.io,
+            key_id: 6cbedc5724ee3426,
+            uid: 43edf7fd498efbb4d7117f892660b300,
+            username: dr4k3
+        },
+        service: {
+            hostname: fastreboot.de,
+            protocol: http:
+        },
+        type: web_service_binding,
+        version: 1
+    },
+    ctime: 1412609598,
+    expire_in: 157680000,
+    prev: null,
+    seqno: 1,
+    tag: signature
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.2
+Comment: https://keybase.io/crypto
+
+yMK8AnicO8LLzMDFmLPvTrjKOxM1xtMHNpYyhBhts6tWSspPqVSyqlbKTgVTaZl5
+6alFBUWZeSVKVkqmhilJiWYpBmbmhmlmSamWRsYpxqYWRkZmyUmpKcmm5kYmqanG
+JkZmSjpKGfnFIB1AY5ISi1P1MvOBYkBOfGYKUBSL+lKwhIlxakqaeVqKiaVFalpS
+kkmKuaGheZqFpZGZmUGSsYEBSGFxalFeYm4qUHVKkUm2sVKtjhJQqCwzORXkYJC9
+UOm0xOKSotSk/PwSvZRUoM6CovyS/OT8HKBURklJgRVIZ0llAUhpeWpSPNSQ+KTM
+vBSgr4EaylKLijPz85SsDIEqk0syQaYamhgamRlYmlpa6CilVhRkFqXGZ4JUmJqb
+WRgAAcia1DIlq7zSnByQwwrz8oGyQIsS04H2FGem5yWWlBalKtUeOhjDwsDIxcDG
+ygQKeQYuTgFYfCg/FGBY6XnMoSw37JXb/JaH+neeXXjPf97Epv/L8jVly1Nu1HN/
+ZVn5xtVqXu+Jlp+xbFE1KiaHXrS+FLN+ajCxiuVv4abuo8vvWKmUzFhfzRvIl55n
+HrTpe1/JfNasKr916kLHXgsnrVN/y7PE9/QuueJ0ptUn5ydxWRikvD6y/NW7W0y3
+XM5muz62tON66CJtJ/nu6vFtIa9r7nhV+DacVF4dwrttz8n2vUJZmbd3KNoVpzbE
+XLy47IF49dUNz7fX6Lenfj7/T+vu66UrmHpN9rKIJn/6nKciGrGB1/WPtu+XdvFj
+Z3JNTydcXv3/65x8Q68jZ+PrF9TX3uYx0ZvX8vBu99bik+s9wme7xVyzVDdZqeBV
+JZN122v1R4XNihE3dsQXpHq7OsndNO28+H3WX4VzThorm82dztUF7rxsJfnR8s/z
+POeoOeuZLF//8vtu1FgVPE096+NFqd7SF9ItzNtS1LZsK9DYGNDSF9P1837Y39KA
+TawJW+0zk/Rj7F9WT/GtuHfkMtfLssOc3LwGP0r2LvLdlvmNozXTal3W3IiwCA03
+lldMty9E7+g47mA/+X/fTb4FwpG/aw40KWyenfvR5pNGf4GM57tDJjMvRphFLJW5
+UVXv8Hj/9hfd213Ut56u+JRpEvzm+oObfNVbxRYvsOi997jEfIHs9YcOU5rawrIi
+tkXqH3rucuTO7Qkup11kltV9lHyRVnrZfhIA5AGG3g==
+=1Ry3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dr4k3
+
+==================================================================
+

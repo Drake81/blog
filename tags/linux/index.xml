@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Reboot my Life!</title>
+    <link>https://blog.fastreboot.de/tags/linux/</link>
+    <description>Recent content in Linux on Reboot my Life!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Martin Stoffers</copyright>
+    <lastBuildDate>Thu, 14 Aug 2014 11:00:19 +0200</lastBuildDate><atom:link href="https://blog.fastreboot.de/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audiokonvertierung für Faule</title>
+      <link>https://blog.fastreboot.de/2014/08/audiokonvertierung-f%C3%BCr-faule/</link>
+      <pubDate>Thu, 14 Aug 2014 11:00:19 +0200</pubDate>
+      
+      <guid>https://blog.fastreboot.de/2014/08/audiokonvertierung-f%C3%BCr-faule/</guid>
+      <description>Heute sind mir wieder ein paar Audiodateien in die Hände gefallen, die seit Jahren als wav oder wma in meiner Musiksammlung herumlagen. Dummerweise kann mein Handy nur mp3. Also dachte ich mir ich könnte die ja mal konvertieren&amp;hellip;
+Allerdings war ich dann doch zu faul die betreffenden Dateien von Hand aus allen Verzeichnissen zu suchen und zu konvertieren. Also musste ein kleiner Einzeiler auf der Kommandozeile her. Mit find und dem Soundcoverter, der auch im Batchmodus arbeitet, war die Arbeit dann auch schell getan.</description>
+    </item>
+    
+    <item>
+      <title>Auf alle git remotes auf einmal pushen</title>
+      <link>https://blog.fastreboot.de/2013/09/auf-alle-git-remotes-auf-einmal-pushen/</link>
+      <pubDate>Tue, 17 Sep 2013 17:00:19 +0200</pubDate>
+      
+      <guid>https://blog.fastreboot.de/2013/09/auf-alle-git-remotes-auf-einmal-pushen/</guid>
+      <description>Beim lernen in der FH wurde uns heute das pushen auf mehrere git server, sprich verschiedene remotes, zu mühsam. Zwar tut ein git push origin master &amp;amp;&amp;amp; git push github master genau das, was man möchte, aber man kennt ja nicht immer alle remotes in jedem Repository. Also haben wir uns schnell mit einer kleinen Shellfunktion beholfen.
+Diese einfach in die .zshrc einfügen:
+function powerpush(){  for repo in $(cat .</description>
+    </item>
+    
+    <item>
+      <title>MIME-Typs auf der Shell verbiegen</title>
+      <link>https://blog.fastreboot.de/2013/06/mime-typs-auf-der-shell-verbiegen/</link>
+      <pubDate>Sun, 16 Jun 2013 23:00:19 +0200</pubDate>
+      
+      <guid>https://blog.fastreboot.de/2013/06/mime-typs-auf-der-shell-verbiegen/</guid>
+      <description>Da auch Canonical sich entschlossen hat dem Benutzer seiner tollen Oberfläche immer weniger Freiheiten zu lassen und deshalb jeden Button und jede Option einspart, die nicht nützlich erscheint, ergib sich in regelmäßigen Abständen eine Suche nach Ersatz.
+Neuste Errungenschaft ist das Fehlen der Möglichkeit sich selbst aussuchen zu dürfen, welches Programm welchem Dateityp zugeschrieben ist. Natürlich geht dies immer noch, aber nicht mehr über den gewohnten Weg des &amp;ldquo;Öffen mit Dialogs&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

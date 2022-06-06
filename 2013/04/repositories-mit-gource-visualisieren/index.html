@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="de-de">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Repositories mit gource visualisieren | Reboot my Life!</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Weil ich es unheimlich cool finde, und nicht vergessen möchte wie man schöne Videos mit gource aus seinen Repositories erstellt. Hier mal die Quick &amp; Dirty Anleitung.
+Unter Ubuntu oder Debian sollte sich gource einfach, wie folgt, aus den Quellen installieren lassen.
+sudo apt-get install gource Alle anderen sollten einfach mal einen Blick auf die Projekt Homepage werfen.
+Nach der Installation einfach im Terminal in ein beliebiges Repository wechseln und mit gource die Visualisierung der Commits live starten.">
+    <meta name="generator" content="Hugo 0.97.0-DEV" />
+    
+    
+    
+    
+      <meta name="robots" content="index, follow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.64890a7e0b2c0ecfe141962bd5ce0af48f56a3467236204a2c7a61b50a223d35.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Repositories mit gource visualisieren" />
+<meta property="og:description" content="Weil ich es unheimlich cool finde, und nicht vergessen möchte wie man schöne Videos mit gource aus seinen Repositories erstellt. Hier mal die Quick &amp; Dirty Anleitung.
+Unter Ubuntu oder Debian sollte sich gource einfach, wie folgt, aus den Quellen installieren lassen.
+sudo apt-get install gource Alle anderen sollten einfach mal einen Blick auf die Projekt Homepage werfen.
+Nach der Installation einfach im Terminal in ein beliebiges Repository wechseln und mit gource die Visualisierung der Commits live starten." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.fastreboot.de/2013/04/repositories-mit-gource-visualisieren/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2013-04-04T17:48:19+02:00" />
+<meta property="article:modified_time" content="2013-04-04T17:48:19+02:00" />
+
+<meta itemprop="name" content="Repositories mit gource visualisieren">
+<meta itemprop="description" content="Weil ich es unheimlich cool finde, und nicht vergessen möchte wie man schöne Videos mit gource aus seinen Repositories erstellt. Hier mal die Quick &amp; Dirty Anleitung.
+Unter Ubuntu oder Debian sollte sich gource einfach, wie folgt, aus den Quellen installieren lassen.
+sudo apt-get install gource Alle anderen sollten einfach mal einen Blick auf die Projekt Homepage werfen.
+Nach der Installation einfach im Terminal in ein beliebiges Repository wechseln und mit gource die Visualisierung der Commits live starten."><meta itemprop="datePublished" content="2013-04-04T17:48:19+02:00" />
+<meta itemprop="dateModified" content="2013-04-04T17:48:19+02:00" />
+<meta itemprop="wordCount" content="241">
+<meta itemprop="keywords" content="Programming," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Repositories mit gource visualisieren"/>
+<meta name="twitter:description" content="Weil ich es unheimlich cool finde, und nicht vergessen möchte wie man schöne Videos mit gource aus seinen Repositories erstellt. Hier mal die Quick &amp; Dirty Anleitung.
+Unter Ubuntu oder Debian sollte sich gource einfach, wie folgt, aus den Quellen installieren lassen.
+sudo apt-get install gource Alle anderen sollten einfach mal einen Blick auf die Projekt Homepage werfen.
+Nach der Installation einfach im Terminal in ein beliebiges Repository wechseln und mit gource die Visualisierung der Commits live starten."/>
+
+      
+    
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white production">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Reboot my Life!
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/posts/" title="Posts page">
+              Posts
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://martinstoffers.de" title="About page">
+              About
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://twitter.com/share?url=https://blog.fastreboot.de/2013/04/repositories-mit-gource-visualisieren/&amp;text=Repositories%20mit%20gource%20visualisieren" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Repositories mit gource visualisieren</h1>
+      
+      <p class="tracked">
+        By <strong>Martin Stoffers</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2013-04-04T17:48:19+02:00">4. Januar 2013</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Weil ich es unheimlich cool finde, und nicht vergessen möchte wie man schöne Videos mit gource aus seinen Repositories erstellt. Hier mal die Quick &amp; Dirty Anleitung.</p>
+<p>Unter Ubuntu oder Debian sollte sich gource einfach, wie folgt, aus den Quellen installieren lassen.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>sudo apt-get install gource
+</span></span></code></pre></div><p>Alle anderen sollten einfach mal einen Blick auf die <a href="https://code.google.com/p/gource/" title="Projekt Homepage zu Gource">Projekt Homepage</a> werfen.</p>
+<p>Nach der Installation einfach im Terminal in ein beliebiges Repository wechseln und mit <code>gource</code> die Visualisierung der Commits live starten.
+Die Geschwindigkeit der Animation lässt sich mit dem Parameter <code>-c</code> steuern.</p>
+<p>Schon ganz hübsch. Um nun aber ein Video zu erstellen muss man mit <code>-o</code> eine ppm Datei schreiben.
+Ganz wichtig ist dabei, dass der Fokus während des Vorgangs nicht vom Animationsfenster genommen wird.</p>
+<p>Zum Beispiel so:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>gource -c <span style="color:#ae81ff">2</span> -800x600 -o output.ppm
+</span></span></code></pre></div><p><strong>!Vorsicht!</strong> Die Datei wird schnell sehr groß! Das heißt 60GByte ist noch klein&hellip;</p>
+<p>Wenn die Datei fertig geschrieben ist. Muss die Datei noch in ein Videoformat konvertiert werden.
+Hier der Einfachheit halber mal als webm.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>cat output.ppm | ffmpeg -y -r <span style="color:#ae81ff">60</span> -f image2pipe -vcodec ppm -i - -vcodec libvpx -b 10000K gource.webm
+</span></span></code></pre></div><p><a href="https://code.google.com/p/gource/wiki/Videos" title="Video erstellen">Auf der Homepage von gource finden sich noch andere Formate</a></p>
+<p>So sollte das Ergebnis dann Aussehen.
+Was man hier sieht, ist die Entstehung des <a href="https://github.com/shownotes/show-pad" title="Showpad auf Github">Showpad&rsquo;s</a> für die <a href="http://shownot.es" title="http://shownot.es">shownotes</a> durch den ehrenwerten <a href="http://luto.at/" title="title">Luto</a>.
+Leider ist die Qualität des Videos doch sehr gering. Was aber der Rechenleistung meines Laptops geschuldet ist.</p>
+
+
+<video width="640" height="480" controls>
+  <source src="showpad.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/programming" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Programming</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://blog.fastreboot.de/" >
+    &copy;  Martin Stoffers 2022 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

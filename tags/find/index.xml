@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>find on Reboot my Life!</title>
+    <link>https://blog.fastreboot.de/tags/find/</link>
+    <description>Recent content in find on Reboot my Life!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Martin Stoffers</copyright>
+    <lastBuildDate>Thu, 14 Aug 2014 11:00:19 +0200</lastBuildDate><atom:link href="https://blog.fastreboot.de/tags/find/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audiokonvertierung für Faule</title>
+      <link>https://blog.fastreboot.de/2014/08/audiokonvertierung-f%C3%BCr-faule/</link>
+      <pubDate>Thu, 14 Aug 2014 11:00:19 +0200</pubDate>
+      
+      <guid>https://blog.fastreboot.de/2014/08/audiokonvertierung-f%C3%BCr-faule/</guid>
+      <description>Heute sind mir wieder ein paar Audiodateien in die Hände gefallen, die seit Jahren als wav oder wma in meiner Musiksammlung herumlagen. Dummerweise kann mein Handy nur mp3. Also dachte ich mir ich könnte die ja mal konvertieren&amp;hellip;
+Allerdings war ich dann doch zu faul die betreffenden Dateien von Hand aus allen Verzeichnissen zu suchen und zu konvertieren. Also musste ein kleiner Einzeiler auf der Kommandozeile her. Mit find und dem Soundcoverter, der auch im Batchmodus arbeitet, war die Arbeit dann auch schell getan.</description>
+    </item>
+    
+  </channel>
+</rss>
