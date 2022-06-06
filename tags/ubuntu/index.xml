@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu on Reboot my Life!</title>
-    <link>https://blog.fastreboot.de/tags/ubuntu/</link>
+    <link>https://www.fastreboot.de/tags/ubuntu/</link>
     <description>Recent content in Ubuntu on Reboot my Life!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Martin Stoffers</copyright>
-    <lastBuildDate>Sun, 16 Jun 2013 23:00:19 +0200</lastBuildDate><atom:link href="https://blog.fastreboot.de/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2013 23:00:19 +0200</lastBuildDate><atom:link href="https://www.fastreboot.de/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIME-Typs auf der Shell verbiegen</title>
-      <link>https://blog.fastreboot.de/2013/06/mime-typs-auf-der-shell-verbiegen/</link>
+      <link>https://www.fastreboot.de/2013/06/mime-typs-auf-der-shell-verbiegen/</link>
       <pubDate>Sun, 16 Jun 2013 23:00:19 +0200</pubDate>
       
-      <guid>https://blog.fastreboot.de/2013/06/mime-typs-auf-der-shell-verbiegen/</guid>
+      <guid>https://www.fastreboot.de/2013/06/mime-typs-auf-der-shell-verbiegen/</guid>
       <description>Da auch Canonical sich entschlossen hat dem Benutzer seiner tollen Oberfläche immer weniger Freiheiten zu lassen und deshalb jeden Button und jede Option einspart, die nicht nützlich erscheint, ergib sich in regelmäßigen Abständen eine Suche nach Ersatz.
 Neuste Errungenschaft ist das Fehlen der Möglichkeit sich selbst aussuchen zu dürfen, welches Programm welchem Dateityp zugeschrieben ist. Natürlich geht dies immer noch, aber nicht mehr über den gewohnten Weg des &amp;ldquo;Öffen mit Dialogs&amp;rdquo;.</description>
     </item>
