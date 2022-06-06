@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Reboot my Life!</title>
-    <link>https://www.fastreboot.de/tags/programming/</link>
+    <link>https://fastreboot.de/tags/programming/</link>
     <description>Recent content in Programming on Reboot my Life!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Martin Stoffers</copyright>
-    <lastBuildDate>Thu, 04 Apr 2013 17:48:19 +0200</lastBuildDate><atom:link href="https://www.fastreboot.de/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2013 17:48:19 +0200</lastBuildDate><atom:link href="https://fastreboot.de/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Repositories mit gource visualisieren</title>
-      <link>https://www.fastreboot.de/2013/04/repositories-mit-gource-visualisieren/</link>
+      <link>https://fastreboot.de/2013/04/repositories-mit-gource-visualisieren/</link>
       <pubDate>Thu, 04 Apr 2013 17:48:19 +0200</pubDate>
       
-      <guid>https://www.fastreboot.de/2013/04/repositories-mit-gource-visualisieren/</guid>
+      <guid>https://fastreboot.de/2013/04/repositories-mit-gource-visualisieren/</guid>
       <description>Weil ich es unheimlich cool finde, und nicht vergessen möchte wie man schöne Videos mit gource aus seinen Repositories erstellt. Hier mal die Quick &amp;amp; Dirty Anleitung.
 Unter Ubuntu oder Debian sollte sich gource einfach, wie folgt, aus den Quellen installieren lassen.
 sudo apt-get install gource Alle anderen sollten einfach mal einen Blick auf die Projekt Homepage werfen.

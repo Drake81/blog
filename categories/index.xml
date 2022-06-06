@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Reboot my Life!</title>
-    <link>https://www.fastreboot.de/categories/</link>
+    <link>https://fastreboot.de/categories/</link>
     <description>Recent content in Categories on Reboot my Life!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <copyright>Martin Stoffers</copyright><atom:link href="https://www.fastreboot.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Martin Stoffers</copyright><atom:link href="https://fastreboot.de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
